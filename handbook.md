@@ -100,17 +100,23 @@ for details on membership levels.
 
 ### Tasks
 
-Members without a “no work” pass are expected to contribute work for the good
-of the community. The reasons for this is to keep the cost of membership down,
-and to helps to build community. Working with others on a task is a great way
-to get to know other people. Please see the [task
-page](http://dl.dropbox.com/u/12504841/Task-assignments.html) for a list of
-tasks.
+Members are expected to volunteer their time and talents to keep the space clean and functioning. The reasons for this are to keep the cost of membership down,
+and to help to build community through shared responsibility. Working with others on a task is a great way
+to get to know other people.
 
-On the fourth Tuesday of each month, we do a “clubhouse cleanup”. Members come
-in, empty the trash containers, clean the fridge, kitchen, and bathroom,
-vacuum the carpet, wash the windows, whiteboards and blackboards, and table
-tops; and wet-mop the wood floor. This takes around an hour to do.
+Examples of regular cleaning tasks include: 
+
+- Emptying the trash and recycling containers
+- Cleaning the fridge, kitchen, and bathroom
+- Washing the windows, whiteboards and blackboards, and table tops
+
+Other tasks non-cleaning tasks include: 
+
+- Helping with Workantile's marketing committee
+- Keeping our snack table and soda fridge stocked
+- Organizing social lunches and parties
+
+Please see a maintainer if you're unsure of how you can contribute to the well-being of Workantile.
 
 ### Reserving conference rooms
 
