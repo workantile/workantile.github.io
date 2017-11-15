@@ -1,5 +1,5 @@
 ---
-Title: Workantile Members Documentation
+title: Workantile Members Documentation
 ---
 
 [Members' Handbook](handbook.md)
