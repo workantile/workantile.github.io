@@ -64,13 +64,14 @@ The maintainers are all full dues-paying members of Workantile who make sure
 that all the things that need doing get done. They are:
 
   * Tom Brandt: twbrandt@gmail.com
+  * Chris Dzombak: chris@dzombak.com
   * Steve Kemsley: stephenkemsley@gmail.com
   * Dave Nelson: dave@davideriknelcon.com
-  * Phil Proefrock: architect@cornellbox.com
-  * Sarah Zettel: szettel@umich.edu
-  * Anna Schumaker: schumaker.anna@gmail.com
+  * Mike Nicholas: mnicholas@wepredict.co.uk
   * Chris Salzman: christopher.salzman@gmail.com
-  * Chris Dzombak: chris@dzombak.com
+  * Anna Schumaker: schumaker.anna@gmail.com
+  * Cory Williamson-Cardneau: corywill86@gmail.com
+  * Sarah Zettel: szettel@umich.edu
 
 Maintainers meet as necessary and the meetings are announced on Slack. All
 members are welcome, encouraged even, to come to the meetings.
@@ -95,22 +96,8 @@ Any member who wants to become a maintainer is welcome to, just ask!
 
 ### Membership levels
 
-Please see the [License Agreement](http://workantile.com/license-agreement/)
+Please see the [License Agreement](license-agreement.md)
 for details on membership levels.
-
-### Tasks
-
-Members without a “no work” pass are expected to contribute work for the good
-of the community. The reasons for this is to keep the cost of membership down,
-and to helps to build community. Working with others on a task is a great way
-to get to know other people. Please see the [task
-page](http://dl.dropbox.com/u/12504841/Task-assignments.html) for a list of
-tasks.
-
-On the fourth Tuesday of each month, we do a “clubhouse cleanup”. Members come
-in, empty the trash containers, clean the fridge, kitchen, and bathroom,
-vacuum the carpet, wash the windows, whiteboards and blackboards, and table
-tops; and wet-mop the wood floor. This takes around an hour to do.
 
 ### Reserving conference rooms
 
@@ -134,7 +121,7 @@ The Workantile calendar of events is [here](http://workantile.com/calendar/)
 ### Snacks, coffee, kitchen
 
 Workantile has a kitchen area with a refrigerator, microwave, and toaster oven
-members can use. Snacks and cans of pop cost $1. Coffee is $0.75. Members
+members can use. Snacks and canned beverages cost $1. Coffee is $0.75. Members
 frequently bring food in to share with other members and which is, of course,
 free.
 
@@ -157,13 +144,6 @@ are invited to Slack when they join the community.
 
 The Workantile twitter account is
 [@workantile](http://twitter.com/workantile).
-
-### Game Day
-
-Generally once a month there is a Game Day at Workantile, where members bring
-in different board games and other games to play. Some Game Days are kid-
-friendly, others are aimed at adult gamers. Watch the calendar and Slack for
-Game Days.
 
 ### Other random events
 
@@ -235,7 +215,7 @@ Downtown](http://getdowntown.org) for details.
 ### Bus system
 
 Workantile members may purchase a go!pass which gives unlimited rides on Ann
-Arbor Transportation Authority busses. See one of the maintainers to purchase
+Arbor Area Transportation Authority busses. See one of the maintainers to purchase
 one. The go!pass costs $15/year, making it a fantastic bargain. The [AATA
 website](http://theride.org) has details on bus routes, schedules, and the
 location of park-and-ride lots.
@@ -259,10 +239,6 @@ usb cables, screwdrivers, packing tape, and general what-have-you.
 Workantile has flat screen HDTV mounted on the wall in the lower level. It has
 a number of different connectors so you should not have a problem connecting
 it to your computer. Please put all the connectors back when you are done.
-
-### Speakers
-
-The speakers are accessible through Apple AirPlay.
 
 ### Supplies
 
@@ -291,11 +267,10 @@ walking distance of Workantile. A thoroughly unthorough list:
 
 ### Eats
 
-  * [Mark’s Carts](http://markscartsannarbor.com/), Washington between Ashley and First. Collection of different food carts. Inexpensive. Breakfast occasionally, lunch. Takeout only. Open March - November.
   * Le Dog, west side of Main Street between Liberty and William. Excellent soups, hot dogs. Lobster bisque to die for on Thursday and Friday. Inexpensive. Lunch only, takeout only, cash only.
-  * [Back2Roots](http://http://www.back2rootsbistro.com/), three doors down. Moderate. Vegan. Lunch, dinner, eat in or takeout.
   * [Jerusalem Garden](http://www.jerusalemgarden.net/), Liberty between Fifth and Division. Excellent falafel, shawarma, hummus, other Mediterranean dishes. Inexpensive. Lunch, dinner. eat in or takeout.
   * [Ginger Deli](http://www.back2rootsbistro.com/), Liberty between Division and Maynard. Pan-asian. Inexpensive. Lunch only, takeout only.
+  * [Avalon Cafe and Kitchen](http://www.avalonbreads.net/avalon-cafe-and-kitchen-ann-arbor/), Liberty between Main and Fourth. Salads, sandwiches, burgers, chicken, fish, others. Moderate. Lunch, dinner, eat in or takeout.
 
 ### Eats, drinks
 
@@ -303,7 +278,6 @@ walking distance of Workantile. A thoroughly unthorough list:
   * [Arbor Brewing Company](http://www.arborbrewing.com/pub/), south side of Washington between Main and Fourth Ave. Brewpub, pub food. Lunch, dinner. Moderate.
   * [Grizzly Peak](http://grizzlypeak.net/), north side of Washington between Main and Ashley. Brewpub, pub food. Lunch, dinner, Moderate.
   * Sushi Zen Miki, west side of First between Washington and Huron. Japanese. Lunch, dinner. Moderate.
-  * [Sabor Latino](http://annarborsabor.com/), west side of Main between Ann and Miller (two blocks north). Mexican, Latin American. Lunch, dinner. $1 tacos on Tuesdays. Inexpensive
   * [Raven’s Club](http://theravensclub.com/), east side of Main between Washington and Liberty. Cocktails, full menu. Dinner only. Expensive.
   * [Zingerman’s](http://www.zingermansdeli.com/), Zingerman’s Next Door, Detroit at Kingsley (four blocks north). World famous deli. Lunch, dinner. Bring your wallet.
   * [Lunch Room](http://thelunchrooma2.com/), Kerrytown. Vegan. Moderate. Lunch, dinner, eat in or takeout.
