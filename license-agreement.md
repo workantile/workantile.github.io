@@ -1,4 +1,6 @@
-### THE COWORKING SOCIETY MEMBERS’ USER AGREEMENT
+---
+title: THE COWORKING SOCIETY MEMBERS’ USER AGREEMENT
+---
 
 This is a User Agreement is between the COWORKING SOCIETY LLC (“CSLLC”) and a
 Member of the Coworking Society Community (henceforward “Member”). This
@@ -76,11 +78,11 @@ order for the change to take effect in the following month.
 
 ### DAY PASSES
 
-  * Day Pass: 
+  * Day Pass:
     * One-time charge of $35
     * Can access the Workantile for one day (including all Internal Events)
     * **Cannot** reserve conference/phone rooms, receive mail, bring Guests, or host any Events
-    * _Note:_ Day Pass Use “enrolls” the User in our system; Day Pass Users will not need to refile this agreement with each Day Pass purchase. 
+    * _Note:_ Day Pass Use “enrolls” the User in our system; Day Pass Users will not need to refile this agreement with each Day Pass purchase.
 
 ### MEMBERSHIP SPECIFICS
 

@@ -1,4 +1,6 @@
-# Workantile Members’ Handbook
+---
+title: Workantile Members' Handbook
+---
 
 * [The company](#the-company)
 * [Maintainers](#maintainers)
