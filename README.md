@@ -1,1 +1,1 @@
-[handbook](../handbook.md)
+[handbook](handbook.md)
