@@ -1,6 +1,4 @@
----
-title: THE COWORKING SOCIETY MEMBERS’ USER AGREEMENT
----
+### Coworking Society User License Agreement
 
 This is a User Agreement is between the COWORKING SOCIETY LLC (“CSLLC”) and a
 Member of the Coworking Society Community (henceforward “Member”). This

@@ -1,7 +1,3 @@
----
-title: Workantile Members Documentation
----
-
 [Members' Handbook](handbook.md)
 
 [License Agreement](license-agreement.md)
