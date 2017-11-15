@@ -234,9 +234,7 @@ Downtown](http://getdowntown.org) for details.
 
 ### Bus system
 
-Workantile members may purchase a go!pass which gives unlimited rides on Ann
-Arbor Transportation Authority busses. See one of the maintainers to purchase
-one. The go!pass costs $15/year, making it a fantastic bargain. The [AATA
+Workantile provides go!pass's to all current members. The go!pass grants unlimited rides on Ann Arbor Transprotation Authority busses. All costs for the go!pass are covered by your Workantile dues. If you'd like one, please see a maintainer. You can [read more about the go!pass on getdowntown.org's site](http://www.getdowntown.org/gopass). The [AATA
 website](http://theride.org) has details on bus routes, schedules, and the
 location of park-and-ride lots.
 
