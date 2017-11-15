@@ -52,7 +52,7 @@ month’s dues refunded. All outgoing Members are asked to do the following
 within 2 weeks:
 
   1. Return their RFID or physical key (if any)
-  2. Return their Workantile AATA bus pass (this is a condition of our contract with AATA; after 2 weeks the pass must be recovered or deactivated)
+  2. Return their Workantile AAATA "go!pass" bus pass (this is a condition of our contract with AAATA; after 2 weeks the pass must be recovered or deactivated)
   3. Empty their locker (any items remaining after 2 weeks will be donated to a charitable organization)
   4. File a change of address with the USPS (any mail arriving after 2 weeks will be returned to sender)
 
@@ -104,7 +104,7 @@ order for the change to take effect in the following month.
   * All Full and Affiliate members:
 
     * Can reserve conference room and phone room in advance
-    * Can obtain an AATA bus pass as part of the [getDowntown initiative](http://www.getdowntown.org/bus/gopass/index.html) at the cost set by getDowntown (reevaluated each August; currently $15)
+    * Can obtain an AAATA "go!pass" bus pass as part of the [getDowntown initiative](http://www.getdowntown.org/bus/gopass/index.html) at the cost set by getDowntown (reevaluated each August; currently $15)
     * Can bring Guests to Workantile
     * Shall consistently contribute work to Workantile Tasks as posted at Workantile from time to time
   * Supporting Member:
